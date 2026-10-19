@@ -8,3 +8,4 @@ PROFİL=("ad"+"soyad")
 YAZ ("Merhaba" + profil + "Uygulamaya Hoş geldin. "
 DUR
 <img width="832" height="1121" alt="image" src="https://github.com/user-attachments/assets/f73aa3d7-e2e1-4ca5-a2fb-c6ee80405d31" />
+## Kaynakça: 9.Sınıf Programlama Temelleri Ders Kitabı Sayfa 46 7.Uygulama
